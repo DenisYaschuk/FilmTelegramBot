@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\KPI_NEW\OP\FilmBookApiTelegramBot\FilmBookApiTelegramBot\Properties\PublishProfiles\FilmBookApiTelegramBot20210601153130.pubxml</_LastSelectedProfileId>
+    <ActiveDebugProfile>FilmBookApiTelegramBot</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
